@@ -1,3 +1,4 @@
 # Arth-daily-code
 ### Easy Leevl
-## Gross Salary from base 
+## Q1: Gross Salary from base 
+## Q2: Unit conversion of KM
